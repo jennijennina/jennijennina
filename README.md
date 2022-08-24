@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🌱 I’m currently learning console.log()
+ 🌱 I’m currently learning Frontend Web Development
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jennijennina&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
